@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Barriers
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Walls and Objects
+  - Enemies
+  - Dashing
+  - Player Projectiles
+  - Enemy Projectiles
+  - Player
+  - Minimap
+  - Spawner
+  - Molotov
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4040315947
+    locked: 0
+  - name: Bridges And Doors
+    uniqueID: 356858811
+    locked: 0
+  - name: Walls and Objects
+    uniqueID: 1327493297
+    locked: 0
+  - name: Molotov
+    uniqueID: 2271475509
+    locked: 0
+  - name: UI
+    uniqueID: 845746365
+    locked: 0
+  - name: Effects
+    uniqueID: 4079790497
+    locked: 0
+  - name: Enemy
+    uniqueID: 2381573719
+    locked: 0
+  - name: Player
+    uniqueID: 384625997
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1907953989
+    locked: 0
